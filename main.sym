@@ -1,0 +1,24 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	BEGIN                   3002
+//	COMP                    3026
+//	COUNT                   303D
+//	DEC                     302F
+//	DIGIT                   3039
+//	END                     3037
+//	ENDX                    303B
+//	ENT                     303C
+//	HELLO                   3050
+//	HYPHEN                  303A
+//	INPUT                   300E
+//	MASKS                   3040
+//	MSG                     3088
+//	NEG                     3034
+//	ONE                     303F
+//	PRINT                   301F
+//	PRINTC                  3023
+//	PRINTO                  302C
+//	PRINTZ                  3029
+//	TEN                     3015
+//	TIMES                   3038
+//	ZERO                    303E
